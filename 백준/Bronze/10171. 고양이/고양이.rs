@@ -1,0 +1,7 @@
+fn main() {
+    //println!("Hello world!")
+    println!("\\    /\\");
+    println!(" )  ( ')");
+    println!("(  /  )");
+    println!(" \\(__)|");
+}
